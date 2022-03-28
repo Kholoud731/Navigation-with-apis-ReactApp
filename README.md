@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Deployment Link
+link: https://candid-monstera-348e26.netlify.app/
+## note that the google translate won't work on the deployed version, only on locallhost once you run this app locally on your PC
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
